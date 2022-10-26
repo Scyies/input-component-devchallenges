@@ -96,6 +96,6 @@ $ npm run storybook
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [My portifólio](https://scyies.vercel.app/)
+- GitHub [@Scyies](https://github.com/Scyies)
+- Linkedin [Sérgio Valério](https://www.linkedin.com/in/sergio-valerio/)
